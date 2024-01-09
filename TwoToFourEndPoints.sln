@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoToFourEndPoints", "TwoToFourEndPoints.csproj", "{509A3BA0-2BC0-446F-A592-19199BE11597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509A3BA0-2BC0-446F-A592-19199BE11597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509A3BA0-2BC0-446F-A592-19199BE11597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509A3BA0-2BC0-446F-A592-19199BE11597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509A3BA0-2BC0-446F-A592-19199BE11597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {672C737B-FAAA-4F39-A011-3A0F90A795F2}
+	EndGlobalSection
+EndGlobal
