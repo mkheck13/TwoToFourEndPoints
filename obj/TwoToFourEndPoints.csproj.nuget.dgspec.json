@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\MikesRepo\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj": {}
+    "C:\\Users\\mkhec\\Desktop\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\MikesRepo\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj": {
+    "C:\\Users\\mkhec\\Desktop\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\MikesRepo\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj",
+        "projectUniqueName": "C:\\Users\\mkhec\\Desktop\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj",
         "projectName": "TwoToFourEndPoints",
-        "projectPath": "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\MikesRepo\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj",
-        "packagesPath": "C:\\Users\\Aiden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\MikesRepo\\TwoToFourEndPoints\\obj\\",
+        "projectPath": "C:\\Users\\mkhec\\Desktop\\TwoToFourEndPoints\\TwoToFourEndPoints.csproj",
+        "packagesPath": "C:\\Users\\mkhec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkhec\\Desktop\\TwoToFourEndPoints\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aiden\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mkhec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

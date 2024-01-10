@@ -16,7 +16,7 @@ namespace TwoToFourEndPoints.Controllers
 
         [HttpGet]
         [Route("TwoQuestions/{name}/{time}")]
-        public string twoQuestions(string name, string time)
+        public string twoQuestions(string name, int time)
         {
             return _twoQuestionsService.twoQuestions(name, time);
         }
